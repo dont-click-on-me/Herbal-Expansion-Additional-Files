@@ -1,1 +1,42 @@
 This repository includes the Mystical Customization configuration files for Herbal Expansion as well as an optional KubeJS script to modify herb name color catagorization.
+
+-----
+
+Installation Guide
+This mod contains two sets of files:
+
+Mystical Agriculture Crop Files (via Mystical Customization)
+
+Optional KubeJS Client Script (for custom item name coloring)
+
+-----
+
+Mystical Customization Crop Files
+These define the custom growable herbs and are required for the mod to function.
+
+To install:
+
+- Navigate to your Minecraft configuration folder:
+config/mysticalcustomization/crops/
+
+- Copy the entire contents of the crops/ folder from this repository into that directory.
+
+- Launch the game — your herbal crops will now appear in Mystical Agriculture!
+
+-----
+
+Optional: KubeJS Item Color Script
+This script gives all herb-related items unique colors and formatting to make identification easier in-game. Inspired by the original Herbal Overhaul mod.
+
+To install:
+
+- Make sure KubeJS is installed.
+
+- Navigate to your Minecraft script directory:
+kubejs/client_scripts/
+
+- Copy herbal_expansion_modifications.js into that folder.
+
+- Restart the game to apply the name changes.
+
+-----
